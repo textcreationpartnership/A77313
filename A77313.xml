@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oh ye magistrates in and about this city of London.</title>
+            <author>Brend, William, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77313</idno>
+            <idno type="STC">Wing B4359A</idno>
+            <idno type="STC">ESTC R170772</idno>
+            <idno type="EEBO-CITATION">45789177</idno>
+            <idno type="OCLC">ocm 45789177</idno>
+            <idno type="VID">172491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172491)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2634:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oh ye magistrates in and about this city of London.</title>
+                  <author>Brend, William, d. 1676.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: William Brend ... 1664, from Newgate.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172491:1"/>
+            <head>Oh ye Magiſtrates in and about this City of <hi>LONDON.</hi>
+            </head>
+            <p>WHy will you fight againſt the Lord God, the Crea<g ref="char:EOLhyphen"/>tor of all things, and asſure as the Lord our God liveth, that which you have done, and are a doing againſt the innocent people of God called <hi>QUAKERS</hi> is done againſt the Lord, and you are found fighters againſt him; and do you think that you are ſtronger then he? though we are contemptible unto you, and ſeem but as Graſhoppers before you, you ſhall one day know, that the Lord God of Heaven and Earth is on our ſide, and he is our Captain, and is with us in all our ſufferings under you. Oh conſider, you are but as potſherds be<g ref="char:EOLhyphen"/>fore our God; for the Nations of the earth are but as the drops of the bucket, and as the ſmall duſt of the ballance before him, and <hi>he bringeth Princes to nothing, he maketh the Judges of the earth as vanity; yea, they ſhall not be planted, yea, they ſhall not be ſown, yea, their ſtocks ſhall not take root in the earth, and he the Lord of Hoſts ſhall blow upon them, and they ſhall wither, and the whirlewinde ſhall take them as ſtubble,</hi> Iſa. 40.23, 24. Then where will you finde a hiding place from the ſtorm that muſt come upon all that fight againſt God, and the people that he hath choſen, and alſo gathered by the might of his omnipotent Power: Oh, why will you deal ſo unadviſedly in this matter of ſo great concernment which con<g ref="char:EOLhyphen"/>cerns God and the Conſciences of men, that you will not ſuffer the Lords innocent people, who fear his dreadful name, and who ſtands in the gap, that his wrath be not poured forth upon you for your high provoking ſins; and among many, this is one of a very deep dye, the not ſuffering his people to meet to wait upon him, and to pray unto him, and to worſhip him in his own way, in the holy fear of his name, and to reverence, honour, and obey him as they ought to do in peace: And it is well known that we do meet peaceably; till you and your Officers come to moleſt and diſturb our peaceable Meetings; ſo that when the peace is broken at any time, you or your Officers are the cauſers of it, that ſhould preſerve the peace, and protect them that are peaceable: and we can call God, Angels, and Men to witneſs for us againſt you, that we meet in the peace of God, and we have peace in our hearts with God, and to all men, and ſo we meet in his holy fear, and in obedience to his requirings, as all the ſervants of God did in all Ages: and ſo we know right well what we do; and therefore he hath learned us, that we muſt not fear you, (O Men) that muſt die, whoſe breath is in your noſtrils; and if we ſhould fear men we ſhould ſoon forget the Lord our maker; nor we muſt not fear your cloſe &amp; ſtraight Priſons, nor your Baniſhments, nor Deaths, nor the lingring ſufferings which you do or may inflict upon us, nor the haſtening of the Execution of your new invented Law againſt us, which you are haſtening the execution of to the ruine of us and our families, which have much been oppreſſed already for ſeveral years together, and will be accompted for in the day of our God, and our ſufferings do cry already, and will cry more loud, and will be very piercing. Oh that you would conſider! can you bear and indure the heavy and doleful, and piercing cry (that will pierce the heavens againſt you) of them that will be left fatherleſs and widdows, which will be ſo when their dear Husbands and Fathers ſhall be taken from them, and alſo their near and dear relations ſeparated the one from the other by your cruelty, and to be expo<g ref="char:EOLhyphen"/>ſed to all manner of ſufferings and ſervitude and bondages, being to be ſold as ſlaves out of other native Countrey, and to become Captives in ſtrange Lands, and this for no other cauſe, but for meeting in peace to worſhip the Lord God. Oh! will not the ſound of this go over all Nations, and the folly thereof be made ma<g ref="char:EOLhyphen"/>nifeſt, that an innocent harmleſs people, which are a ſupport to the Nation, and have as true a right in it, being freely born in the ſame, and have not in the leaſt forfeited their birth-right by any evil whatſoever; that ſuch a people ſhould be ſold and baniſhed, who are induſtrious and faithful in all their dealings that moſt men deſire to deal with them, becauſe of their faithful dealings, and keeping their word and promiſes. O ye Rulers in <hi>England,</hi> are ye ſo void of gravity and policy as to baniſh the very ſupport and well-being of your Nation, which conſiſts of Manufactures and Tradeſmen, and alſo to baniſh ſuch as God is well pleaſed with, and for whoſe ſake the viols of his wrath are yet ſtopped, that they are not poured forth upon this Nation, which will undoubtedly be poured upon you when God ſuffereth you to pull it down upon your ſelves, by your forcing his juſt Lots from among you. Oh! do you think that God hath forſaken the earth? Nay, he hath not, nor will not forſake his people that call and cry upon him for help, becauſe they have no help in the earth but him; and as ſure as the Lord our God liveth, that brought the Children of <hi>Iſrael</hi> out of Egyptian bondage, and through the Red Sea, and delivered them from under <hi>Pharaohs</hi> yoke, and his cruel Task-maſters; he will ariſe for the ſighing of the poor, and for the crying of the needy, and he will plead our cauſe againſt the higheſt of our enemies; but how<g ref="char:EOLhyphen"/>ever, we in Gods holy fear are freely reſigned up to ſtand in the cauſe of our God, for it is his cauſe, and ſo we are not careful in this matter, whether God will deliver us out of theſe your cruel in<g ref="char:EOLhyphen"/>tentions yea or nay: But this God doth ingage our hearts to ſtand in the truth, that we certainly know to be the truth, which he hath made manifeſt unto us; for which truths ſake we ſuffer by you, and for no evil doing: And we would have you to know, that the weight of all our ſufferings will lie upon them that are the cauſers of it, and that will be a weight that ye will not know how to bear; but bear it you muſt that have a hand in it: and the cry of our di<g ref="char:EOLhyphen"/>ſtreſſed Wives and Children, and near and dear relations will in<g ref="char:EOLhyphen"/>tercede unto our God againſt you; beſides the cryes of many fa<g ref="char:EOLhyphen"/>families which have a dependance upon us in point of Trade, that will feel the want of ſuch as may be baniſhed, on whom their de<g ref="char:EOLhyphen"/>pendance hath been to maintain themſelves, Wives, and Children, and their want will cry againſt you; and beſides all this, though now it may be not believed by you, you may feel the weight of that word of our Lord Jeſus Chriſt, which ſaith, <hi>He that offends one of thoſe his little ones that believe in his name, it were better for him that a mill-ſtone were hanged about his neck and he thrown into the midſt of the ſea:</hi> though now you may caſt theſe words and many more of the ſame kinde and nature behinde your backs, you will one day feel the weight of them except ye repent. Oh! my ſoul can deſire that repen<g ref="char:EOLhyphen"/>tance may not be hid from your eyes; and therefore my exhorta<g ref="char:EOLhyphen"/>tion to you is in Gods fear, Repent, and do no more hurt to them that would not hurt one hair of your heads, but ſeek your and all mens good, and have a pitty for you, and have tender bowels of compaſſion towards you, and can freely forgive you for all the ſufferings we have ſuſtained by you, though we have little hopes as from man, that we ſhall be delivered from your cruel proſecuting againſt us, becauſe we ſee and feel your reſolution: and be it known unto you we are reſolved, and not in any headineſs, or raſhneſs, nor forwardneſs, or ſtubborneſs, nor in any way of contempt, but in Gods holy fear, and in the weightineſs of our mindes, being ſtaid and ſettled in true ſoberneſs and ſerious conſideration, that we may not turn our backs upon the cauſe of our God: now becauſe we are like to ſuffer all manner of ſufferings, if we keep to that princi<g ref="char:EOLhyphen"/>ple of himſelf which we know he hath made known unto us; and now if we ſhould deny the Lord before men, he might juſtly deny us and depart from us; and therefore upon theſe weighty conſide<g ref="char:EOLhyphen"/>rations are we reſolved to ſtand to our principles, and we know that our reſolution is grounded upon a better foundation then yours can be; for God hath reſolved us, and that with full purpoſe of heart to cleave to the cauſe of our God; but your reſolves are out of Gods fear, and from your own wills; but ours are to the croſſing of our own wills, and your reſolution is from the wiſdom which is from beneath, which is earthly and ſenſual, but ours is from the wiſdom that is from above, which is pure, peaceable, gen<g ref="char:EOLhyphen"/>tle, and eaſie to be intreated, as much might be ſaid in this caſe; and we know that our God is ſtronger then all the force you can raiſe againſt us; and your truſt is in the arm of fleſh, and outward force and ſtrength, but our truſt is in the living God, and we know you are in the friendſhip of the world, which is enmity againſt God. O therefore that you would minde that ſaying, <hi>Love not the world, nor the things of the world; for he that loves the world the love of the Fa<g ref="char:EOLhyphen"/>ther is not in him:</hi> And ſo I have in a few lines cleared my conſci<g ref="char:EOLhyphen"/>ence unto you, whether you will hear or forbear, and we could de<g ref="char:EOLhyphen"/>ſire that you would manifeſt your ſelves ſo moderate that we might reaſon a little with you of a matter of ſo great concernment, as toucheth our well-being both here and for ever hereafter: but how<g ref="char:EOLhyphen"/>ever we can ſay, the Lord is our Judge, the Lord is our Law-giver; the Lord is our King, and he will ſave us; and to him we are freely given up whatever you do unto us.</p>
+            <closer>
+               <signed>William Brend.</signed>
+               <dateline>
+                  <date>The 22 of the 6. Month, 1664.</date> From <hi>Newgate.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
